@@ -33,12 +33,3 @@ The last option is for adding a new product. In this option, th Manager will be 
 #Supervisor Interface#
 This interface is ben developed. A drpartemens table has already be created and it's been used in the Customer interface. When finished, i'll be able to generate a list af the sabes by department, along with a total profit, and also, will be able to add new departments.
 
-
-
-
-
-
-
-
-Where users can get help with your project
-Who maintains and contributes to the project
