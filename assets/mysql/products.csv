@@ -1,0 +1,52 @@
+Sku,product,department,price ,stock_quantity,product_sales
+AMZ-010,Television Samsung,Electronics,700,35,0
+AMZ-011,iPhone app 7,Electronics,1200,40,0
+AMZ-012,Microsoft Laptop,Computers,1300,25,0
+AMZ-013,Sony Digital Camera,Electronics,500,14,0
+AMZ-014,Nintendo Wii,Games,350,54,0
+AMZ-015,Kindle Fire,Computers,200,45,0
+AMZ-016,PSP,Games,250,32,0
+AMZ-017,Microwave Oven,Home,250,46,0
+AMZ-018,iPad IV,Computers,400,67,0
+AMZ-019,Xbox 360,Games,350,78,0
+AMZ-020,Samsung Smart Phone,Phones,1200,88,0
+AMZ-021,Electric Lamp,Home,150,125,0
+AMZ-022,Whirlpool  Washing Machine,Home,700,34,0
+AMZ-023,Hair Straightener,Home,75,56,0
+AMZ-024,Barometer,Home,50,52,0
+AMZ-025,iPod 2nd generation,Computers,600,68,0
+AMZ-026,Ceiling Fan,Home,325,94,0
+AMZ-027,Cell Phone Charger,Phones,460,135,0
+AMZ-028,iPad mini,Computers,475,47,0
+AMZ-029,PlayStation 3,Games,500,56,0
+AMZ-030,HP Multi Printer,Computers,350,37,0
+AMZ-031,Nintendo DS,Games,400,89,0
+AMZ-032,PlayStation 4,Games,400,325,0
+AMZ-033,Pen Drive 20Gb,Computers,40,245,0
+AMZ-034,HP Laptop,Computers,950,84,0
+AMZ-035,Kindle Fire HD,Computers,575,93,0
+AMZ-036,PlayStation 2,Games,350,56,0
+AMZ-037,Xbox II,Games,850,74,0
+AMZ-038,Google Glass,Electronics,375,123,0
+AMZ-039,Kindle Fire XDX,Games,600,36,0
+AMZ-040,Projector,Electronics,1100,63,0
+AMZ-041,Blu Ray Player,Games,375,86,0
+AMZ-042,CD Player,Computers,80,93,0
+AMZ-043,Apple Watch,Electronics,170,178,0
+AMZ-044,Microtek Upseb 900 Va Inverter,Electronics,450,43,0
+AMZ-045,"HP 8300 Elite Small Form Factor Desktop Computer
+",Computers,155,147,0
+AMZ-046,Philips Dual Refrigerator,Home,2100,46,0
+AMZ-047,Smart Toilet,Home,375,38,0
+AMZ-048,Multi Phone Charger,Phones,95,169,0
+AMZ-049,Memory Card 100Gb,Computers,60,247,0
+AMZ-050,Sony Camera Recorder,Electronics,900,73,0
+AMZ-051,VHF Radio,Electronics,70,179,0
+AMZ-052,Home/Office Telephone System,Phones,145,49,0
+AMZ-053,Stereo Equalizer,Electronics,250,74,0
+AMZ-054,Speaker,Music,290,59,0
+AMZ-055,Universal Remote Control,Electronics,60,237,0
+AMZ-056,Thrive Causemetics Set,Games,150,36,0
+AMZ-057,Sega Dreamcast,Electronics,450,58,0
+AMZ-058,RCA DVD Player,Electronics,80,147,0
+AMZ-059,PlayStation Vita,Games,360,65,0
