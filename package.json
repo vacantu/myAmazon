@@ -33,7 +33,7 @@
     "ora": "^4.0.3",
     "shelljs": "^0.8.3",
     "simple-git": "^1.126.0",
-    "terminal-kit": "^1.31.7",
+    "terminal-kit": "^1.49.4",
     "touch": "^3.1.0"
   }
 }
